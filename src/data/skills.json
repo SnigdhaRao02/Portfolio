@@ -1,0 +1,78 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc":"../assets/skills/html.png"
+  
+    },
+    {
+      "title": "CSS",
+      "imageSrc":"../assets/skills/html.png"
+    
+    },
+    {
+      "title": "React",
+      "imageSrc":"../assets/skills/html.png"
+   
+    },
+    {
+      "title": "Node",
+      "imageSrc":"../assets/skills/html.png"
+    
+    },
+    
+    {
+      "title": "MongoDB",
+      "imageSrc":"../assets/skills/html.png"
+   
+    },
+    {
+      "title": "Figma",
+      "imageSrc":"../assets/skills/html.png"
+   
+    },
+    {
+        "title": "Python",
+        "imageSrc":"../assets/skills/html.png"
+       
+    },
+    {
+        "title": "Java",
+        "imageSrc":"../assets/skills/html.png"
+       
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc":"../assets/skills/html.png"
+       
+    },
+    {
+        "title": "MySQL",
+        "imageSrc":"../assets/skills/html.png"
+       
+    },
+    {
+      "title": "SpringBoot",
+      "imageSrc":"../assets/skills/html.png"
+     
+  },
+  {
+    "title": "Express",
+    "imageSrc":"../assets/skills/html.png"
+   
+},
+{
+  "title": "C/C++",
+  "imageSrc":"../assets/skills/html.png"
+ 
+},
+{
+  "title": "GCP",
+  "imageSrc":"../assets/skills/html.png"
+ 
+},
+{
+  "title": "Git",
+  "imageSrc":"../assets/skills/html.png"
+ 
+}
+  ]

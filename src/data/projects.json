@@ -1,0 +1,24 @@
+[
+    {
+      "title": "Anonymo Web App",
+      "imageSrc": "projects/project.png",
+      "description": "Anonymo is a web application where users can submit secrets anonymously after logging in/ signing up.",
+      "skills": ["HTML","CSS","JavaScript","EJS","Node.js","Passport.js","MongoDB"],
+      "source": "https://github.com/SnigdhaRao02/Anonymo-web-application"
+    },
+    
+    {
+      "title": "FindYourPath",
+      "imageSrc": "projects/project.png",
+      "description": "A web application that gives a bird's eye view of every profession helping confused youth decide the career path that perfectly suits them.",
+      "skills": ["HTML","CSS","JavScript","Python","Flask","MongoDB"],
+      "source": "https://github.com/SnigdhaRao02/FindYourPath"
+    },
+    {
+      "title": "Blog Website",
+      "imageSrc": "projects/project.png",
+      "description": "Built a daily journal web application where user can create and publish posts.",
+      "skills": ["HTML","CSS","JavaScript","Node.js", "MongoDB", "Mongoose"],
+      "source": "https://github.com/SnigdhaRao02/Blog"
+    }
+  ]
